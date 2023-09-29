@@ -1,0 +1,14 @@
+html {
+    background-color:azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color:darkgray;
+    
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
